@@ -1,0 +1,5 @@
+- Toda vez que for criar um projeto com django executar no terminal:
+    - pip install django
+    - django-admin startproject nomedoprojeto .
+
+- Para criar um novo app: django-admin startapp nomedoapp
